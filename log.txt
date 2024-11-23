@@ -1,0 +1,18 @@
+
+1732099610320:::1 GET /users
+
+1732099619094:::1 GET /api/users
+
+1732099732086:::1 GET /api/users
+
+1732099736105:::1 GET /api/users
+
+1732099788594:::1 GET /api/users/1
+
+1732099793996:::1 GET /api/user/1
+
+1732099879598:::1 GET /api/user
+
+1732099890563:::1 GET /api/user/1
+
+1732099904079:::1 GET /api/user
